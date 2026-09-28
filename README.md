@@ -2,14 +2,15 @@
 
 ```
 🟢 Server:
-        ➺ Dell Precision T5810:
+        ➺ 
                 CPU: Intel Pentium E7700 3.00gz 2Core/4Thread CPU
                 Memoria Ram: 4gb memoria ram ddr3 1333hz
                 Storage: (500 HHD Boot Drive + 500 HDD)
                 Placa de Video: Intel Graphics 
                 Fonte: 300W 80 plus bronze.
 🟢 Personal System
-        ➺ Desktop PC has the below config:
+
+        ➺ PC config:
                 CPU: AMD Ryzen 5 4500g 3.8 GHz
                 Motherboard: ASUS tuf B550M
                 Memory: Asgard 8x4 32GB DDR4 Ram
@@ -26,7 +27,7 @@
 # 📌 Serviços que uso no meu Homelab:
 
 😊 Services, that I am using for DevOps daily operation.
-| Service Name | Description |
+| Nome de serviço | Descrição |
 |--------------|-------------|
 |✅Linux OS | Ubuntu, CentOS, Debian, Alpine |
 |✅Database Host | Database(MySQL, Postgres, MongoDB) hosted for some personal tasks and testing purposes |
