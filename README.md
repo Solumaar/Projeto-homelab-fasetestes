@@ -22,7 +22,7 @@
                 Monitor 2: LG 75hz
 
 🟢 Roteador: 
-        ➺ TPLink for mega 4 
+        ➺ TPLink for mega ZTE WIFI 6
 ```
 
 # 📌 Serviços que já testei no meu Homelab:
@@ -38,23 +38,23 @@
 |✅ Umbrel|A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS|
 
 
-# 📌👩🏽‍💻 Serviços para expandir conhecimento:
-
+# 📌👩🏽‍💻 Serviços para expandir conhecimento(futuramente):
+| Nome de serviço | Descrição |
+|--------------|-------------|
 |✅ Jenkins|Jenkins é usado para construir e testar o seu produto continuamente, para que os desenvolvedores possam integrar continuamente as mudanças na construção. Jenkins é a ferramenta de CI / CD de código aberto mais popular no mercado hoje e é usado no suporte de DevOps, junto com outras ferramentas nativas da nuvem..|
 |✅ OPNsense|OPNsense é um firewall e sistema de segurança para redes locais e virtuais. É uma alternativa que proporciona recursos avançados para proteger sua empresa.|
-Sistema usado:
+|✅ CasaOS | sistema operacional (na verdade, uma camada de software) voltado para a construção de um servidor doméstico moderno e amigável. Diferente de soluções tradicionais.|
+|✅ Cosmos Server | pacote completo para gerenciar um servidor e implantar aplicativos.|
 
-# Sistema de Upgrade:
-|✅ CasaOS
-|✅ Cosmos Server
+# 
+| OBJETIVO: | 
+|--------------|
+|✅ Segurança da rede |
+|✅ Armazenamento de arquivos |
+|✅ Acesso a series e filmes | 
+|✅ Hospedagens. |
 
-# OBJETIVO: 
-|✅ Segurança da rede
-|✅ Armazenamento de arquivos
-|✅ Acesso a series e filmes 
-|✅ Hospedagens.
-
-CONFIGURAÇÃO UPGRADES:
+# CONFIGURAÇÃO UPGRADES:
 - HD 1terabyte
 - HD 500gb
 - 2*4gb de ram
